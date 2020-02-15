@@ -1,0 +1,116 @@
+.head {
+height:100px;
+position:absolute;
+width:100px;
+border-radius:50%;
+border:3px solid black;
+top:50px;
+left:500px;
+background:brown;
+}
+
+.body {
+height:250px;
+position:absolute;
+width:100px;
+border:3px solid blue;
+top:150px;
+left:500px;
+background:blue;
+}
+
+.left.arm {
+height:105px;
+position:absolute;
+width:40px;
+border:3px solid blue;
+top:180px;
+left:425px;
+transform:rotate(48deg);
+background:blue;
+}
+
+.left.armm {
+height:70px;
+position:absolute;
+width:40px;
+border:3px solid blue;
+top:260px;
+left:439px;
+transform:rotate(140deg);
+background:blue;
+}
+
+.right.arm {
+height:120px;
+position:absolute;
+width:40px;
+border:3px solid black;
+top:180px;
+left:530px;
+transform:rotate(0deg);
+background:blue ;
+}
+
+.right.armm {
+height:100px;
+position:absolute;
+width:40px;
+border:3px solid black;
+top:230px;
+left:600px;
+transform:rotate(90deg);
+background:blue;
+}
+
+.left.hita {
+height:80px;
+position:absolute;
+width:50px;
+border:3px solid yellow;
+top:405px;
+left:540px;
+transform:rotate(137deg);
+background:yellow;
+}
+
+.right.hita {
+height:180px;
+position:absolute;
+width:50px;
+border:3px solid yellow;
+top:405px;
+left:500px;
+background:yellow;
+}
+
+.left.binti {
+height:100px;
+position:absolute;
+width:50px;
+border:3px solid yellow;
+top:460px;
+left:568px;
+transform:rotate(-05deg);
+background:yellow;
+}
+
+.left.paa {
+height:30px;
+position:absolute;
+width:60px;
+border:3px solid black;
+top:580px;
+left:500px;
+background:black;
+}
+
+.right.paa {
+height:30px;
+position:absolute;
+width:65px;
+border:3px solid black;
+top:560px;
+left:575px;
+background:black;
+}
